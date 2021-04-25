@@ -1,0 +1,4 @@
+Number of Employees : 3
+Here the goodies that are selected for distribution are: 
+Scale: 4999Fitbit Plus: 7980Microwave Oven: 9800
+and the difference between the choosen goodie with highest and the lowest price is 1301
